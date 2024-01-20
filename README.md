@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Rain Lover**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Networks:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrepimentel-prog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrepimentel-prog" height="30" width="40" /></a>
 <a href="https://instagram.com/askelardd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="askelardd" height="30" width="40" /></a>
