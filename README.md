@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Birdy](https://www.figma.com/file/7gk0UzCh2o6CP9RlUB2YKd/Projeto_Birdy?node-id=0%3A1&mode=dev)
 
-- 📝 My [CV]-(https://drive.google.com/file/d/15nZjDmSM2ZNS4F37D_eBZq5JtLktt3rI/view?usp=sharing)
+- 📝 My [CV](https://drive.google.com/file/d/15nZjDmSM2ZNS4F37D_eBZq5JtLktt3rI/view?usp=sharing)
 
 - 🌱 I’m currently learning **PHP(React),Python(Django)**
 
