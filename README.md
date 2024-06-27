@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askelardd&label=Profile%20views&color=0e75b6&style=flat" alt="askelardd" /> </p>
 
-- 🔭 I’m currently working on [Birdy](https://www.figma.com/file/7gk0UzCh2o6CP9RlUB2YKd/Projeto_Birdy?node-id=0%3A1&mode=dev)
+- 🔭 I’m currently working on FaceRecognition (Private)
 
 - 📝 My [CV](https://drive.google.com/file/d/15nZjDmSM2ZNS4F37D_eBZq5JtLktt3rI/view?usp=sharing)
 
-- 🌱 I’m currently learning **PHP(React),Python(Django)**
+- 🌱 I’m currently learning **CNN,FaceRecognition,Python(Django)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Askelardd/askelardd](https://github.com/Askelardd/askelardd)
 
