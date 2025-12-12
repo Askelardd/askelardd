@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou André Pimentel!
 
-🎓 Atualmente (2025-2027) estudante de **Engenharia Informática**  
+🎓 Atualmente (2025-2027) estudante de **Engenharia de Redes**  
 ✅ Concluí o meu **CTeSP em TPSI**  
 💡 Interessado em **Inteligência Artificial** e **Cibersegurança**  
 📚 Sempre em busca de novos conhecimentos e desafios.
